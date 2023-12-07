@@ -1,7 +1,7 @@
 # cult-cat-girls
 UPDATES:
 
-99 - See the file <a href="/cult-cat-girls/blob/main/TheWayOfTheCat.md"> WayOfTheCat.md for updates to the cult.</a>
+99 - See the file <a href="TheWayOfTheCat.md"> WayOfTheCat.md for updates to the cult.</a>
 
 98 - See <a href="https://github.com/nathanielburman/cult-cat-girls/blob/main/Cat%20Girl%20Epic%20One.md"> Cat Girl Epic ONE </a>
 
